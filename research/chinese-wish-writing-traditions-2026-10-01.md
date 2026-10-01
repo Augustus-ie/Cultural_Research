@@ -179,3 +179,61 @@ Accessed 1 October 2026. [search excerpt] means the page's indexed excerpt was r
 [57] Amusing Planet, "Clootie Wells: The Celtic Wishing Trees". https://www.amusingplanet.com/2015/05/clootie-wells-celtic-wishing-trees.html [search excerpt]
 [58] Global Holidays Calendar, "Chinese New Year 2027"; Calendar Date, "Chinese New Year 2027". https://globalholidayscalendar.com/countries/china/spring-festival/2027 and https://www.calendardate.com/chinese_new_year_2027.htm [search excerpt]
 [59] Shenxian, "How to Offer Incense: A Practical Guide to Chinese Temple Worship"; Taiwanese Gods, "Temple Visiting Guide". https://shenxian0.com/rituals/incense-offering-guide/ and https://www.taiwanese-gods.org/en/culture/rituals/temple-etiquette/ [search excerpt]
+
+## Addendum, 1 October 2026: the household altar, the hanging censer and the rack
+
+Added after the decision to build a home version: cards addressed to the universe, a deconstructed temple rack across the ceiling, a weekly act of gratitude incense or candle at an altar, and a burn with thanks at Lunar New Year.
+
+### What a Chinese home altar is made of
+
+The Daoist teaching sources agree on five essentials: an incense burner (香爐 xiānglú, a bowl of ash or sand that the sticks stand in), an offering plate, a candle or oil lamp, a water cup, and the object of veneration, which can be a deity image or simply the written character for the Way. The burner is the oldest object type on the altar and sits front and centre. Candles come as one (the heart-light) or a pair (yin and yang), red by tradition, never five. In front of the burner go up to three small cups holding, left to right, water, rice and tea. The water is changed every morning and is there to balance the fire of the lamp [60][61][62].
+
+Modern households commonly replace the oil lamp with a pair of red electric altar candles, which are kept lit through major observances and are sold as standard altar supplies [65][76]. Fruit (oranges and apples are the usual) and fresh flowers rotate on the plate; they are not required daily but are expected on the first and fifteenth of the lunar month [60][64][65].
+
+### Placement rules
+
+The altar stands against a solid wall at chest or eye height, never below the waist. It faces the main door or south, and never faces a toilet, a kitchen stove, a bedroom door or a rubbish area. It is not placed under a beam or a staircase [62][63]. The bedroom itself is avoided in the traditional view: a deity image should not oversee sleep and intimacy, a statue below eye level or at the foot of the bed is a taboo, and feng shui writers add that a yang object in a yin room disturbs sleep [71][72]. All of these rules concern an altar that holds a deity image. An altar with no image is a different case, below.
+
+### The rhythm of tending
+
+Incense is offered morning and evening, first to the gods and then to the ancestors, and the water is refreshed each morning. The fuller offering (food, fruit, flowers, spirit money) comes on the first and fifteenth of each lunar month, which fall roughly on the new and full moon [60][64][65]. The point for a home version is that the tradition's own cadence is a small daily act plus a larger fortnightly one, so a fixed weekly act with spontaneous moments sits comfortably inside it.
+
+### How incense is offered
+
+Three sticks is the standard, read as heaven, earth and humanity, or as Buddha, Dharma and Sangha. Four is never used because the word sounds like death. Light all three together from a candle or lamp, never blow the flame out (blowing is treated like spitting on the offering; wave the sticks until only embers remain), hold them at brow height with the right hand and the left hand wrapped around it, make the request silently, bow with eyes closed, then plant them in the burner: the first in the centre, the second to the left, the third to the right [59][66][67]. Sandalwood (檀香) joss sticks are the everyday altar incense; agarwood (沉香) is the costly one. Thin, low-smoke sandalwood sticks of about thirty minutes' burn are what the suppliers sell for daily home use [75].
+
+### The precedent for an altar with no image, hung from above
+
+Hoklo Taiwanese households hang a censer to Tiangong, the Lord of Heaven, from the middle of the hall beam. It is suspended on four chains, and the Jade Emperor temples venerate the censer alone, with no statue at all [68][69]. This is the closest Chinese precedent for what you described: an address to heaven itself, hung from the ceiling, with no deity image. It also sidesteps every bedroom taboo above, since those turn on a deity image overlooking the room.
+
+### How the rack is built
+
+The wish tag (祈福牌) is a red wooden plaque, often with a red tassel, carrying carved or written text, hung by a red cord on wooden frames or "blessing walls" at temples, old towns, scenic sites and ancient trees. Common occasions named are Qingming, the gaokao and New Year wishes [70]. At Lam Tsuen the post-2005 solution is wooden racks beside the tree [1][2]. Nothing in the sources prescribes the frame; the constant is the red cord, the rows, and the accumulation.
+
+### Thanks when a wish is granted
+
+Return to the altar or temple with incense and thanks; make a donation or do a charitable act in the deity's name; offer fruit, tea, flowers or food at home. The sources describe this as an exchange of gratitude rather than a payment [14][74].
+
+### Incense and the animals
+
+Veterinary and pet-health sources are consistent: incense smoke causes sneezing, congestion, watery eyes and wheezing in cats, dogs are also affected, and the advice is to burn only in a ventilated room the cat does not use, in short sessions, with natural rather than synthetic sticks [73]. Scented candles carry the same warning. The red electric altar candle is the pet-safe default, with real incense reserved for a ventilated room with the cats shut out, or for the outdoor burn at New Year.
+
+### Addendum sources
+
+[60] Daoist Gate, "The Five Steps to Building a Home Altar". https://daoistgate.com/the-five-steps-to-building-a-home-altar/ [search excerpt]
+[61] Old Oak Dao, "Guidelines for Setting up a Daoist Altar". http://www.oldoakdao.org/yahoo_site_admin/assets/docs/Guidelines_for_Setting_up_a_Daoist_Altar.117231613.pdf [search excerpt]
+[62] Taoism and Manifest, "Feng Shui Altar at Home: Taoist Sacred Space Guide". https://www.taoismandmanifest.com/blogs/all/feng-shui-altar-at-home-taoist-sacred-space [search excerpt; commercial source]
+[63] Moon Feng Shui (Singapore), "Chinese Altar Singapore: Feng Shui Placement". https://www.moonfengshui.com.sg/post/chinese-altar-singapore-feng-shui-placement [search excerpt; commercial source]
+[64] Encyclopedia.com, "Domestic Observances: Chinese Practices". https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/domestic-observances-chinese-practices [search excerpt]
+[65] Kaucim, "Chinese Ancestor Worship: What It Is and Isn't". https://www.kaucim.ai/en/articles/chinese-ancestor-worship-guide [search excerpt]
+[66] Travel China With Me, "Burning Incense in China Guide: Traditions, Etiquette". https://travelchinawith.me/china-travel-blog/burning-incense-in-china/ [search excerpt]
+[67] Monian Life, "Do You Know How Chinese People Use Incense in Rituals?". https://monianlife.com/blogs/monian-s-culture/do-you-know-how-chinese-people-use-incense-in-rituals [search excerpt; commercial source]
+[68] Wikipedia, "Tiangong censer". https://en.wikipedia.org/wiki/Tiangong_censer [search excerpt]
+[69] Guandu Temple, "Jade Emperor". https://www.kuantu.org.tw/GDT_E_01_02_04.html [search excerpt]
+[70] Baidu Baike, "祈福牌". https://baike.baidu.com/item/%E7%A5%88%E7%A6%8F%E7%89%8C/67448261 [search excerpt, Chinese]
+[71] Asian Artsy, "Can You Put a Buddha Statue in the Bedroom? 3 Taboos You Must Know". https://asianartsy.com/can-you-put-a-buddha-statue-in-the-bedroom-3-taboos-you-must-know/ [search excerpt; commercial source]
+[72] Chinese Culture and Religion Society (Taiwan), "According to the concept of feng shui: statues". https://www.cjs.org.tw/English/fengshui/statues.htm [search excerpt]
+[73] Basepaws, "Is Incense Bad for Cats?"; Cats.com, "Is Burning Incense Bad for Cats?"; The Vet Desk, "Is Incense Bad for a Cat? Vet Reviewed Reasons". https://basepaws.com/blog/is-incense-bad-for-cats , https://cats.com/is-burning-incense-bad-for-cats , https://thevetdesk.com/pet-health-wellness/cats/is-incense-bad-for-a-cat/ [search excerpt]
+[74] Baibai, "Chinese Prayer Offerings: What to Prepare and Avoid". https://baibai.app/offerings [search excerpt]
+[75] Heazz, "Types of Chinese Incense: Sandalwood, Agarwood and Joss Sticks". https://heazz.com/exploring-different-types-of-chinese-incense-a-guide-to-sandalwood-agarwood-and-joss-sticks/ [search excerpt; commercial source]
+[76] Retail listings for paired red LED altar candles (battery or mains, about 23 cm tall), for example https://www.kkdiscount.com/electric-red-lotus-lamp-light/ [vendor]
