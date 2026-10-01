@@ -126,6 +126,16 @@ Costs are rough euro estimates for Ireland, not quotes; the whole kit should lan
 | Fire-safe container | Small metal bucket or fire pit, for the New Year burn outdoors | 1 | 10 to 25 |
 | Card box | Small lidded box for blank cards and released cards awaiting the burn | 1 | 5 to 10 |
 
+### Where to buy (checked 1 October 2026)
+
+Asia Market (asiamarket.ie) carries the joss sticks, small ceramic bowls, tea cups and rice, but no incense burner, sand or electric altar candles. Its site could only be checked through search excerpts, so prices and stock need confirming at checkout; one excerpt noted several incense lines out of stock.
+
+- Joss sticks: Chan Luen Hing Tibet 12 inch 100 g (about 4.35), Tiannu 12 inch 250 g (about 2.25), Fuk Kung 9 inch 300 g (about 4.15). None is listed as sandalwood. Heera Pure Chandan (15 sticks, about 2.99) is sandalwood, but it is an Indian agarbatti rather than a Chinese joss stick.
+- Burner: use a small ceramic bowl filled with sand or rice. Candidates are the Candlelight Round Bowl Florals 11 cm (about 8.99) or a single bowl from the Oriental 11.5 cm bowl set.
+- Water cup: a cup from the tea-set range, or the Japan Tea Cups Blue Pattern Mix.
+- Filler: uncooked rice from the rice range; for sand, a pet shop or garden centre (aquarium or play sand).
+- Red electric altar candles: not stocked. Paired red LED Buddhist lamps are widely listed on Amazon; order through Amazon UK and confirm it ships to Ireland.
+
 ## If Kyle joins later
 
 His cards go on the reserved line, written and hung by him, in his own words. The weekly act stays yours unless he asks to share it; a shared act means each of you reads your own cards aloud and the gratitude round is spoken together. His fulfilled cards move to the same thanks line, and everything burns together at New Year.
