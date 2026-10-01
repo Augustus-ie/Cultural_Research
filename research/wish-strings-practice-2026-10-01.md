@@ -50,6 +50,19 @@ Where, in the bedroom: a shelf or small cabinet against a solid wall, at chest h
 
 Incense: thin low-smoke sandalwood joss sticks, three at a time. Because the cats spend little time in the bedroom, real incense is workable for the weekly act: door closed with the cats on the other side of it, window open a crack, and the sticks allowed to burn down (about thirty minutes). Keep the door closed until the smoke has cleared. The red electric candles are the standing light the rest of the time. If Rocki or Izzi start sneezing or watering after a session, drop to a beeswax candle for the weekly act and keep incense for the New Year burn outdoors.
 
+## Build walkthrough
+
+One afternoon, done before a weekly-act evening so the first act is the dedication.
+
+1. Plan the lines. Stand in the doorway and pick the wall for the altar first (beside or behind the bedhead, or opposite the window; never the wall at the foot of the bed). Run the lines across the shorter span of the room, parallel, roughly 50 cm apart, with the line nearest the altar wall as the thanks line and the next one reserved for Kyle. Three to five lines is plenty to start; add more as cards accumulate.
+2. Mark the fixings. Each line needs one fixing at each end, 10 to 15 cm below the ceiling so the cards hang above head height. Use a level or a tape from the ceiling so the pairs match. Keep every fixing at least 60 cm horizontally clear of where the incense burner will sit, so no card ever hangs over a flame.
+3. Fit the fixings. Solid wall: small screw eyes into wall plugs. Plasterboard or a rental: adhesive hooks rated to a kilogram or more, pressed for a full minute and left an hour before loading. The load is tiny; it is the sideways pull of a tight cord that matters, so angle screw eyes slightly toward the opposite wall.
+4. Run the cord. Cut each length to the span plus 30 cm each end. Tie a fixed loop (a bowline) at one end, pass the other end through the far fixing and tie it off with an adjustable knot (a taut-line hitch) so it can be re-tightened as the cotton stretches in the first weeks. Pull each line just taut, not bowstring tight.
+5. Make the first cards. Cut red or gold card to about 6 by 10 cm, punch a hole 1 cm from the top edge, thread a 15 cm loop of red string and knot it. Make ten blanks and keep them in a box by the altar with the pen, so writing a card never waits on materials.
+6. Set the altar. Fix the shelf or stand the cabinet so its top sits at chest height or above. Lay out, as you face it: water cup front left, incense burner front centre on a heat-proof tile, fruit plate front right, one red electric candle at each end. Fill the burner two-thirds with clean sand and press it level.
+7. Check the clearances. Light one stick and watch where the smoke goes; move anything it reaches. Confirm the bedroom smoke alarm is not directly above the burner. Never disable it; the closed door and cracked window are the fix.
+8. Dedicate. Switch on the candles, stand facing the lines, say your name, the date and what the strings are for, aloud, in your own words. Hang the first card, which should be for someone else's good, on the line nearest the altar. Then run the weekly act for the first time.
+
 ## The weekly act
 
 Pick one evening and keep it. About ten minutes.
@@ -88,15 +101,30 @@ On or near 6 February 2027, and annually after:
 3. Burn the old cards outdoors in a fire-safe container, with thanks spoken once over the fire. The burning is the delivery.
 4. Set out fresh water, fruit and flowers. Hang the first new cards, and leave the candles on through the Lantern Festival (20 February 2027).
 
-## What to buy
+## Shopping list
 
-- Red cotton cord, 2 to 3 mm, and small wall hooks.
-- Red or gold card stock, a hole punch, red string, small S-hooks.
-- A small ceramic bowl and a bag of clean sand, or a joss-stick holder.
-- A pair of red electric altar candles (battery or mains).
-- A small plate and a small cup, ideally ceramic.
-- Thin low-smoke sandalwood joss sticks.
-- A fire-safe metal container for the New Year burn.
+Costs are rough euro estimates for Ireland, not quotes; the whole kit should land between 70 and 130 euro. Everything but the altar lamps and the joss sticks comes from a hardware shop and a craft shop; those two come from an Asian supermarket or online.
+
+| Item | Spec | Quantity | Rough cost |
+|---|---|---|---|
+| Red cotton cord | 2 to 3 mm, waxed or macramé cotton | 20 m | 8 to 12 |
+| Fixings | Small screw eyes with wall plugs, or adhesive hooks rated 1 kg or more | 10 to 12 (five lines plus spares) | 6 to 15 |
+| Card stock | Red or gold, 250 to 300 gsm, A4 | 10 sheets (about 60 cards) | 6 to 10 |
+| Hole punch | Single, 6 mm | 1 | 4 to 8 |
+| Red string | Fine cotton or embroidery thread for card loops | 1 reel | 3 to 5 |
+| S-hooks | 20 to 25 mm, brass or black steel | 50 | 6 to 10 |
+| Pen | Black or gold, fine brush pen or marker | 2 | 5 to 10 |
+| Shelf or cabinet | Floating shelf 60 cm, or a small cabinet, mounted chest height or above | 1 | 15 to 40 |
+| Incense burner | Small ceramic or brass bowl, 10 to 12 cm | 1 | 8 to 20 |
+| Sand | Clean fine sand, or uncooked rice as the stand-in | 1 small bag | 3 to 5 |
+| Heat-proof tile | Ceramic or slate, under the burner | 1 | 2 to 5 |
+| Red electric altar candles | Paired, battery or mains, about 23 cm | 1 pair | 15 to 30 |
+| Water cup and fruit plate | Small ceramic, plain | 1 each | 6 to 12 |
+| Joss sticks | Thin low-smoke sandalwood, about 30 cm | 1 box | 5 to 12 |
+| Lighter or long matches | For the real-candle option and the New Year burn | 1 | 2 to 4 |
+| Beeswax candle | Fall-back for the weekly act if the cats react | 1 | 5 to 10 |
+| Fire-safe container | Small metal bucket or fire pit, for the New Year burn outdoors | 1 | 10 to 25 |
+| Card box | Small lidded box for blank cards and released cards awaiting the burn | 1 | 5 to 10 |
 
 ## If Kyle joins later
 
