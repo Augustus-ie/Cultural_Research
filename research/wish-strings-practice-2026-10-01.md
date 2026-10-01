@@ -5,7 +5,9 @@ As at 1 October 2026. A private practice for Augustus, built from the research i
 ## Decisions already made
 
 - Cards are addressed to the universe, as direct asks, not mantras.
-- The rack is deconstructed across the ceiling of one room, private, for Augustus and Kyle only.
+- The rack is deconstructed across the ceiling of the bedroom, private. The cats spend little time in that room.
+- Cards are in English only.
+- Built for Augustus alone for now. One line is reserved for Kyle if he wants his own.
 - A fixed weekly act at a small altar, with spontaneous moments whenever a card catches the eye.
 - Gratitude by incense or candle at the altar.
 - A gift of thanks when a wish is fulfilled.
@@ -19,6 +21,8 @@ Red cotton cord run across the ceiling in parallel lines or a loose web, fixed a
 
 Each card hangs on its own short red cord from a tiny S-hook or a slip knot, so a card can be added or taken down without touching the line. Hooks and cord are the whole mechanism; the temple racks prescribe nothing else.
 
+Fix one extra pair of hooks now and leave that line empty. It is Kyle's if he ever wants it, and until then the gap is part of the design rather than something to retrofit.
+
 ### 2. The cards
 
 Red or gold card, roughly 6 by 10 cm, hole punched at the top, a red tassel if you like the look. Black or gold pen. One wish per card, written at the moment the feeling arrives, in this order:
@@ -27,7 +31,7 @@ Red or gold card, roughly 6 by 10 cm, hole punched at the top, a red tassel if y
 2. The date.
 3. The wish, as a direct ask, specific and modest.
 
-Write in English. Add a Chinese blessing if it fits (身體健康 good health, 出入平安 safety coming and going, 心想事成 may what the heart wishes come true, 萬事如意 success in all things), but it is not required. Write at least one card for someone else's good each season; the Buddhist temples treat that as the thing that turns a wish into a vow.
+Write in English, nothing else on the card. Write at least one card for someone else's good each season; the Buddhist temples treat that as the thing that turns a wish into a vow.
 
 Hang a new card the moment it is written, say it aloud once facing the altar, then go on with the day. The spoken naming is the lodging of the petition.
 
@@ -42,9 +46,9 @@ What goes on it, left to right as you face it:
 - A pair of red electric altar candles, one at each end, left on through the weekly act and through the New Year season.
 - A small plate for fruit on the weekly act and for the gift of thanks.
 
-Where: a shelf or small cabinet against a solid wall, at chest height or higher, not under a beam, not facing the bathroom door, not at the foot of the bed. Ideally the wall the strings run toward, so a card and the altar sit in the same line of sight.
+Where, in the bedroom: a shelf or small cabinet against a solid wall, at chest height or higher, not under a beam, not facing the bathroom door, and not at the foot of the bed, so you are never looking down at it or pointing your feet at it from the pillow. The wall beside or behind the bedhead, or the wall opposite the window, both work. Run the strings toward it so a card and the altar sit in the same line of sight.
 
-Incense: thin low-smoke sandalwood joss sticks, three at a time. Because cats are in the house, treat real incense as the exception and the red electric candles as the default. Burn incense only with the window open and the cats out of the room, in a session of one stick's length, and stop at the first sneeze. A single beeswax candle is the middle option when the cats are elsewhere.
+Incense: thin low-smoke sandalwood joss sticks, three at a time. Because the cats spend little time in the bedroom, real incense is workable for the weekly act: door closed with the cats on the other side of it, window open a crack, and the sticks allowed to burn down (about thirty minutes). Keep the door closed until the smoke has cleared. The red electric candles are the standing light the rest of the time. If Rocki or Izzi start sneezing or watering after a session, drop to a beeswax candle for the weekly act and keep incense for the New Year burn outdoors.
 
 ## The weekly act
 
@@ -94,8 +98,10 @@ On or near 6 February 2027, and annually after:
 - Thin low-smoke sandalwood joss sticks.
 - A fire-safe metal container for the New Year burn.
 
-## Open questions
+## If Kyle joins later
 
-1. Which room, and do the cats have the run of it? The answer sets the incense rule above.
-2. Do you want the cards to carry Chinese characters, or English only? Either is honest; the research supports both.
-3. Does Kyle want a card of his own on the strings, or his own string?
+His cards go on the reserved line, written and hung by him, in his own words. The weekly act stays yours unless he asks to share it; a shared act means each of you reads your own cards aloud and the gratitude round is spoken together. His fulfilled cards move to the same thanks line, and everything burns together at New Year.
+
+## Decisions log
+
+- 1 October 2026. Cards to the universe, direct asks, English only. Bedroom. Weekly act with spontaneous moments. Incense or candle. Gift of thanks on fulfilment. Burn at Lunar New Year. Built for Augustus; a line held for Kyle.

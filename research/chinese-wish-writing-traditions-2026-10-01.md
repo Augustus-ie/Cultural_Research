@@ -237,3 +237,32 @@ Veterinary and pet-health sources are consistent: incense smoke causes sneezing,
 [74] Baibai, "Chinese Prayer Offerings: What to Prepare and Avoid". https://baibai.app/offerings [search excerpt]
 [75] Heazz, "Types of Chinese Incense: Sandalwood, Agarwood and Joss Sticks". https://heazz.com/exploring-different-types-of-chinese-incense-a-guide-to-sandalwood-agarwood-and-joss-sticks/ [search excerpt; commercial source]
 [76] Retail listings for paired red LED altar candles (battery or mains, about 23 cm tall), for example https://www.kkdiscount.com/electric-red-lotus-lamp-light/ [vendor]
+
+## Addendum, 1 October 2026: the Irish parallels
+
+Asked out of curiosity rather than for the practice. Ireland has a cousin for nearly every piece of the Chinese family above, most of them folded into Catholic devotion over a pre-Christian base.
+
+| Irish practice | What happens | Chinese counterpart | Sources |
+|---|---|---|---|
+| Petitions at Knock | Pilgrims write a petition and leave it in the box at the shrine; petitions are placed at Our Lady's altar and prayed for at Mass, and a candle is lit for each intention received. The shrine also takes petitions online | The temple wish card plus the gratitude incense: a written petition lodged at a holy place, with a flame offered for it | [81] |
+| St Brigid's cross | Woven from rushes on 31 January, hung above the door and in the rafters to protect the house from fire and harm. A new cross is made each year and the old one burned | Spring couplets, the 福 on the door and the door talisman, all renewed each Lunar New Year with the old one burned. In 2027 the two renewals fall in the same week: Brigid's Day on 1 February, Lunar New Year on 6 February | [77][23][36] |
+| Brat Bríde and Ribín Bríd | A cloth or ribbon left outside on Brigid's Eve for the saint to touch as she passes, then kept for the year and used for cures, headaches especially | The blessed ribbon and the prayer flag: cloth made holy by exposure, kept for its power | [78][53] |
+| The May altar | A home altar to Mary kept through May: a statue or image on a blue or white cloth, a candle, water, fresh flowers from the hedgerows | The household altar with its lamp, water cup and flowers, and its seasonal rhythm | [79][60] |
+| The May bush | A whitethorn by the door decorated with ribbons, streamers, shells and sometimes candles at Bealtaine; May flowers laid on the step and over the door against bad luck | The wishing tree hung with red ribbons, and the red cloth draped on a tree lord | [80][8][17] |
+| The rag tree at the holy well | Cloth dipped in the well and tied to the hawthorn with a prayer; as it rots, the ailment fades | The wishing tree | [55][56][57] |
+| Paying the rounds (turas) | Walking the well clockwise (deiseal) a sacred number of times, three, seven or nine, reciting prayers at each station, dropping a pebble in the well on each pass, leaving beads, ribbons or stones. The main day is the pattern, the patron saint's feast | The temple circuit of incense and bows, and the festival day at the wishing tree | [82] |
+| The candle in the window | Lit on Christmas Eve to welcome Mary and Joseph, to signal a safe house for a priest in Penal times, and as a prayer for the safe return of someone absent | The water lantern floated to guide a spirit home | [84][33] |
+| The Child of Prague under the hedge | The statue is set out in the garden the night before a wedding to secure fine weather, and sometimes buried | The placard thrown for one specific outcome, with the same mix of faith and humour | [83] |
+
+The one Irish practice with no Chinese twin is the clockwise round, and the one Chinese practice with no Irish twin is the throw: in Ireland the offering is tied, dipped, dropped or buried, never thrown.
+
+### Irish addendum sources
+
+[77] Irish American Mom, "The Story of the Saint Brigid's Cross"; Blarney, "St. Brigid's Cross: An Old Irish Symbol of Protection". https://www.irishamericanmom.com/the-story-of-the-saint-brigids-cross/ and https://explore.blarney.com/st-brigids-cross/ [search excerpt]
+[78] The Irish Pagan School, "Brat Bhríde: A Healing Tradition of Brigid's Eve"; Irish Farmers Journal, "The forgotten traditions of St Brigid's Night" (26 January 2022); National Museum of Ireland, "St Brigid's Day: a weaving tradition of Celtic rituals, Christian faith and enduring folk customs". https://irishpagan.school/brat-bride/ , https://www.farmersjournal.ie/life/features/the-forgotten-traditions-of-st-brigid-s-night-673835 , https://www.museum.ie/en-IE/News/St-Brigids-Day-a-weaving-tradition-of-Celtic-ritu [search excerpt]
+[79] Knock Shrine, "Preparing Your May Altar at Home"; RTÉ Brainstorm, "Bealtaine traditions in Ireland: fire, water, light and luck" (30 April 2026). https://www.knockshrine.ie/preparing-your-may-altar-at-home/ and https://www.rte.ie/brainstorm/2026/0430/1046282-bealtaine-may-01st-traditions-folklore-history-ireland/ [search excerpt]
+[80] Our Irish Heritage, "Traditional May Day Customs in Ireland". https://www.ouririshheritage.org/content/archive/topics/celebrating_may/may_customs_traditions/traditional_may_day_customs_in_ireland [search excerpt]
+[81] Knock Shrine, "Place a Petition" and "Light a Candle". https://www.knockshrine.ie/place-petition/ and https://www.knockshrine.ie/light-a-candle/ [search excerpt]
+[82] Wikipedia, "Pattern (devotional)"; Holy Wells of Cork and Kerry, "Pilgrimage, Partying and Paying the Rounds"; The Irish Times, "A Pattern from the past". https://en.wikipedia.org/wiki/Pattern_(devotional) , https://holywellscorkandkerry.com/on-wells-4-pilgrimage-partying-paying-the-rounds/ , https://www.irishtimes.com/culture/heritage/a-pattern-from-the-past-1.1510978 [search excerpt]
+[83] RTÉ Brainstorm, "Why is the Child of Prague statue associated with Irish weddings?" (1 April 2026); USC Digital Folklore Archives, "Putting a Child of Prague statue in the garden for good weather at weddings". https://www.rte.ie/brainstorm/2026/0401/1512414-child-of-prague-statue-ireland-weddings-weather-folklore/ and https://folklore.usc.edu/putting-a-child-of-prague-statue-in-the-garden-for-good-weather-at-weddings-2/ [search excerpt]
+[84] Irish American Mom, "A Candle in the Window: An Irish Christmas Tradition"; Wikipedia, "Christmas in Ireland". https://www.irishamericanmom.com/a-candle-in-the-window-an-irish-christmas-tradition/ and https://en.wikipedia.org/wiki/Christmas_in_Ireland [search excerpt]
