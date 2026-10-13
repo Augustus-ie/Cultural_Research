@@ -69,6 +69,21 @@ A 2026 FashionBeans roundup names the Tailong binder as its best waist piece and
 
 Ludovic de Saint Sernin's autumn 2025 menswear showed wide corset belts and corset-detailed tailoring, and Buro 24/7's styling advice for men is to treat a corset "as a layering piece just like a tank top, under an open shirt or a jacket" [46][47]. Nothing buyable from those designers was in stock at the time of this check. For the Lived Artistry wardrobe this is the visible version worth watching, but it will not do the daily job of a boned underbust.
 
+## What actually pulls you in, per euro
+
+No garment compresses fat in the sense of reducing it. What a garment can do is move soft tissue and hold it, and the visible "sucked in" effect depends on two things: how much the structure physically pulls in, and whether it keeps that line when you sit. Shapewear brands grade compression light, medium, firm and extra firm, and name latex as the strongest elastic material; they also advise using the lightest level that does the job and keeping firm garments for shorter wear [59]. Ranked by inches gained for money spent, from an Irish address:
+
+| Garment | Pulls in | Holds when seated | Visible under a fitted shirt | Price | Sources |
+|---|---|---|---|---|---|
+| Steel-boned cotton waspie (Corsets Island, Amazon.ie) | Most: three to four inches at the waist once laced | Yes, rigid | Yes, bone lines and the lacing bump | €30 to €33 | [51] |
+| Latex hook-and-eye waist trainer with steel bones (YIANNA, Amazon.ie, women's cut) | Strong elastic pull, about two inches; the faja type | Mostly; hooks can pop | Edges show | about €25 to €35 | [60] |
+| Leonisa Max/Force men's firm vest with back support (leonisa.eu) | Firm, whole torso smoothed rather than reduced | Yes | No, that is its point | €92, seen at €77 | [61] |
+| Leo by Leonisa back-support vest (Amazon.ie) | Moderate | Yes | No | €57.45 | [53] |
+| Generic men's compression vests (Amazon.ie, €5 to €25) | Slight; polyester-spandex, "medium" at best; one reviewer: "some compression, but very slight" | Rolls | No | €5 to €25 | [62] |
+| Neoprene sweat belts (CAMBIVO, mezzuno) | Almost none; they are sauna belts | No | Yes | low | [54] |
+
+The verdict: the €30 steel-boned waspie is the only cheap thing that genuinely pulls inches in, and it is the cost-effective answer if a bone line under a shirt is acceptable or you layer over it. If it has to vanish under a fitted shirt for eight hours, the Leonisa Max/Force vest is the firmest men's garment found, and far easier to wear all day. The cheap vests and the sweat belts do not do what their listings claim.
+
 ## Sizing yourself
 
 Vendor guides agree on the method; the one men-specific adjustment is to trust your rib and hip numbers over the waist.
@@ -213,3 +228,7 @@ Each marked with how it was accessed. All are search excerpt; direct fetches wer
 56. Leonisa EU, 3-Belt Custom Waist Cincher with Lumbar Support (€60 regular, €42 sale seen). https://leonisa.eu/products/3-belt-custom-waist-cincher-with-lumbar-support (search excerpt)
 57. Amazon.co.uk, PengGeng Mens Waist Trainer Steel Boned Corset Body Slimmer Style Belt, B0787SQNW7, and Leatherotics VC9 made-to-measure steel-boned leather waistcoat, B00FDWFX48 (unavailable). https://www.amazon.co.uk/PengGeng-Waist-Trainer-Corset-Slimmer/dp/B0787SQNW7 and https://www.amazon.co.uk/Leatherotics-Steampunk-Waistcoat-Victorian-VC9/dp/B00FDWFX48 (search excerpt)
 58. Amazon customer service pages: Amazon.ie "About Customs, Duties and Taxes" https://www.amazon.ie/gp/help/customer/display.html?nodeId=G26L6NHEDGERVR8W ; Amazon.ie "Items Sold by Third Party Sellers that are Fulfilled by Amazon from the United Kingdom" https://www.amazon.ie/gp/help/customer/display.html?nodeId=GH9K5JWN3ADFZV45 ; Amazon.co.uk "Brexit and Deliveries to the EU" https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GCXL3PUGPE5UU8PD ; with Wise, "Does Amazon UK ship to Ireland?" https://wise.com/ie/blog/does-amazon-uk-ship-to-ireland (search excerpt)
+59. Yummie, "Shapewear compression levels guide", and Curveez, "How to know the perfect shapewear compression level". https://www.yummie.com/blogs/news/shapewear-compression-levels-guide and https://curveez.com/blogs/news/perfect-shapewear-compression-level (search excerpt; women's brands, general guidance)
+60. Amazon.ie, YIANNA Waist Trainer latex steel-boned cincher with three hook-and-eye rows, B01HCV7B4C (women's). https://www.amazon.ie/YIANNA-Trainer-Corset-Control-Cincher/dp/B01HCV7B4C (search excerpt, 13 October 2026)
+61. Leonisa EU, Men's Firm Body Shaper Vest with Back Support Max/Force (€92 regular; €77 sale seen) and the men's waist cinchers collection. https://leonisa.eu/products/max-force-firm-compression-vest-with-back-support and https://leonisa.eu/collections/mens-waist-cinchers (search excerpt)
+62. Amazon.ie, generic men's compression vests: Casey Kevin 3-pack (90% polyester, 10% spandex, "medium compression"), B0GWC1YVC5, and the men's compression vest results page with the reviewer remark on slight compression. https://www.amazon.ie/Compression-Slimming-Shapewear-Breathable-Undershirt/dp/B0GWC1YVC5 and https://www.amazon.ie/compression-vest/s?k=compression+vest (search excerpt, 13 October 2026)
